@@ -156,7 +156,7 @@ module.exports = {
         short_name: `Gatsby Frosted`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#000000`,
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
       },
